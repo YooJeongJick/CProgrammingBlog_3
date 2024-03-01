@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2004\\2023V2\\CProgrammingBlog_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85439D0A-382F-409E-AC69-FBC510D1F497}|CProgrammingBlog_3\\CProgrammingBlog_3.vcxproj|C:\\2004\\2023V2\\CProgrammingBlog_3\\CProgrammingBlog_3\\CProgrammingBlog_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85439D0A-382F-409E-AC69-FBC510D1F497}|CProgrammingBlog_3\\CProgrammingBlog_3.vcxproj|solutionrelative:CProgrammingBlog_3\\CProgrammingBlog_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CProgrammingBlog_3.cpp",
+              "DocumentMoniker": "C:\\2004\\2023V2\\CProgrammingBlog_3\\CProgrammingBlog_3\\CProgrammingBlog_3.cpp",
+              "RelativeDocumentMoniker": "CProgrammingBlog_3\\CProgrammingBlog_3.cpp",
+              "ToolTip": "C:\\2004\\2023V2\\CProgrammingBlog_3\\CProgrammingBlog_3\\CProgrammingBlog_3.cpp",
+              "RelativeToolTip": "CProgrammingBlog_3\\CProgrammingBlog_3.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T11:25:47.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
